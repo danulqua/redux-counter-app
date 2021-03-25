@@ -15,7 +15,7 @@
     background: linear-gradient(180deg, #0837B0 0%, #021E66 100%);
 }
 
-.counter {
+#counter {
     display: flex;
     justify-content: center;
     align-items: center;
